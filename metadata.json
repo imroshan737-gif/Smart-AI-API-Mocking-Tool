@@ -1,0 +1,5 @@
+{
+  "name": " Smart API Simulator",
+  "description": "A smart API mocking tool that uses Gemini AI to generate dynamic mock responses from OpenAPI specs or descriptions. Features delay simulation, error injection, and an interactive playground.",
+  "requestFramePermissions": []
+}
